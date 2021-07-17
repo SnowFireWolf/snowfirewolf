@@ -6,6 +6,12 @@
 
 
 
+## Status
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowfirewolf&theme=nord_bright)
+
+
+
 ## UIPack Website - 2019
 Link: https://uipack.reh.tw
 
@@ -20,12 +26,3 @@ Github: https://github.com/sfirew/tw-mc.top
 <img src="https://user-images.githubusercontent.com/14024836/124942347-20ee1480-e03e-11eb-9fb0-ef951e08faa8.png" alt="sfirew bcadd0a2" width="700px">
 
 
-
-
-
-
-## Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=snowfirewolf&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowfirewolf&layout=compact)](https://github.com/snowfirewolf/github-readme-stats)
