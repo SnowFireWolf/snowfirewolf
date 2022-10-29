@@ -2,11 +2,8 @@
 
 
 
-# Hi there 👋
+# Bio
 I'm a student, learning about website.
-
-
-**Name**: Kevin Zheng
 
 **My Profile Webiste**: https://snowfirewolf.github.io
 
@@ -14,7 +11,7 @@ I'm a student, learning about website.
 
 
 
-## Status
+# Status
 <p>
   <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowFireWolf&theme=swift" alt="GitHub - Top Langs"/>
   <img width="67%" src="https://github-readme-stats.vercel.app/api?username=snowfirewolf&show_icons=true&include_all_commits=true&count_private=true&theme=swift" alt="GitHub - Contribution Stats"/>
