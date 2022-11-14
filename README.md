@@ -3,7 +3,7 @@
 
 
 ## Bio
-I'm a student, learning about website.
+Not student, but still learning about website.
 
 **My Profile Webiste**: https://sfirew.com
 
