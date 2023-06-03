@@ -62,18 +62,3 @@ Not student, but still learning about website.
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-
-
-
-
-
-## Status
-<p>
-  <img width="30%" src="https://github-contribution-stats.vercel.app/api/?username=snowfirewolf" alt="GitHub - Top Langs"/>
-  <img width="68%" src="https://raw.githubusercontent.com/SnowFireWolf/snowfirewolf/master/profile-summary-card-output/nord_bright/0-profile-details.svg" alt="GitHub - Contribution Stats"/>
-</p>
-
-[![]()](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SnowFireWolf/snowfirewolf/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SnowFireWolf/snowfirewolf/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
