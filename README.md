@@ -1,5 +1,5 @@
 # Kevin Zheng
-Hi I'm Kevin, I am currently serving in the military in Taiwan, assisting with managing network-related systems.
+Hi I'm Kevin.
 
 
 ## Bio
