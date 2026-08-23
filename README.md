@@ -3,8 +3,7 @@ Hi I'm Kevin.
 
 
 ## Bio
-I left university early due to dissatisfaction with university life and decided to explore different things.
-
+Working
 
 
 **My Profile Webiste**: https://sfirew.com
